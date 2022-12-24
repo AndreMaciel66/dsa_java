@@ -1,4 +1,4 @@
-package misc;
+package algorithms.factorial;
 
 public class Factorial {
 
